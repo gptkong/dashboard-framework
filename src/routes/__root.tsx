@@ -25,8 +25,8 @@ function RootComponent() {
       <main className="p-4">
         <Outlet />
       </main>
+      <ReactQueryDevtools buttonPosition="bottom-left" />
       <TanStackRouterDevtools position="bottom-right" />
-      <ReactQueryDevtools initialIsOpen={false} />
     </>
   )
 }
