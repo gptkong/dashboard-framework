@@ -122,31 +122,6 @@
 | lodash | ^4.17.21 | JavaScript 工具函数库 |
 | @types/lodash | ^4.17.21 | Lodash 类型定义 |
 
-## 可能需要补充的包
-
-### 国际化 (i18n)
-- `react-i18next` + `i18next` - React 国际化方案
-
-### 文件上传
-- `react-dropzone` - 拖拽上传组件
-
-### 测试工具
-- `vitest` - Vite 原生测试框架
-- `@testing-library/react` - React 测试工具
-- `msw` - API Mock 工具
-- `@vitest/coverage-v8` - 测试覆盖率
-
-### 代码质量
-- `prettier` - 代码格式化
-- `husky` - Git Hooks 工具
-- `lint-staged` - 暂存文件检查
-- `commitlint` - 提交信息规范
-
-### 错误监控
-- `@sentry/react` - Sentry 错误追踪
-
-### PWA 支持
-- `vite-plugin-pwa` - PWA 插件
 
 ## 快速开始
 
