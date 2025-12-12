@@ -8,7 +8,7 @@ function AboutPage() {
   return (
     <div>
       <h1 className="text-2xl font-bold">About</h1>
-      <p className="mt-2">Hello from About!</p>
+      <p className="mt-2 text-red-100">Hello from About!</p>
     </div>
   )
 }
